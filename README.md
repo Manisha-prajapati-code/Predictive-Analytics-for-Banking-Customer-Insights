@@ -1,5 +1,10 @@
 ### 🌟 **Project Spotlight: Predictive Analytics for Banking Customer Insights** 🌟  
 
+DASHBOARD LINK ON CLAUDE (https://claude.site/artifacts/21a7aa97-86c5-4f98-b3ce-cb302ecd346f)
+LOCOLHOST LINK (http://127.0.0.1:8050/)
+ 
+
+
 🔍 **Objective:**  
 This project aims to leverage **data-driven insights** to enhance decision-making in the banking sector. By analyzing customer data, it identifies key metrics like account balances, loan amounts, credit scores, and transaction patterns to classify customers into risk categories (Low, Medium, High). The ultimate goal is to empower banks with predictive analytics to improve financial management and customer engagement strategies.  
 
